@@ -5,4 +5,4 @@ library so it can be included in Swift Package Manager projects.
 
 Eigen and the code in this repo are licensed under [MPL 2.0](eigen/LICENSE).
 
-See [Example] for example usage.
+See the [Example](Example/) directory for example usage.
