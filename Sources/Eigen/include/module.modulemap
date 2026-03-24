@@ -1,0 +1,5 @@
+module Eigen {
+    umbrella header "Eigen.h"
+    export *
+    requires cplusplus
+}
